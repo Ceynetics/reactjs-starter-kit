@@ -1,7 +1,7 @@
-const ERROR_MESSAGES = {
+const MESSAGES = {
     'UNKNOWN_ERROR': 'Please Contact the Admin',
 }
 
-Object.freeze(ERROR_MESSAGES);
+Object.freeze(MESSAGES);
 
-export default ERROR_MESSAGES;
+export default MESSAGES;
